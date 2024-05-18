@@ -1,4 +1,4 @@
-# Clustering-Customer-Segmentation 🕵🏻‍♀️🏢
+# Clustering Customer Segmentation 🕵🏻‍♀️🏢
 
 ## Business Problem
 📃 It is expected to compare the rule-based customer segmentation method RFM and the machine learning method KMeans for customer segmentation.
